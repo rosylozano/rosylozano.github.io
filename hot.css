@@ -1,0 +1,19 @@
+h1 {
+    color:purple; font-size:30px; text-align:center; font-family:courier;
+    font-weight: lighter;
+}
+h2 {
+    color:pink; font-size:20px;
+}
+h3 {
+    color:black
+    ; font-size:15px; font-family:monospace; font-weight: lighter;
+}
+h5 {
+    color:purple; text-align:center; font-family:courier;
+    font-weight: lighter;
+}
+h6 {
+    color:purple; text-align:center; font-family:courier;
+    font-weight: lighter;
+}
